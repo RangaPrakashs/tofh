@@ -1,2 +1,2 @@
 # tofh
-Angular startup tutorial ( Angular tour of Heros
+Angular startup tutorial ( Angular tour of Heros ) 
